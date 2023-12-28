@@ -1,2 +1,2 @@
 build:
-  version: "prod accounts"
+  version: "{cipher}prod accounts"
