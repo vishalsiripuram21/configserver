@@ -1,2 +1,3 @@
-build:
-  version: "Quality analyst cards"
+cards:
+  build:
+    version: "Quality analyst cards"
